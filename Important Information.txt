@@ -1,0 +1,13 @@
+1. I have used github repository to store my code for the employees application and I have sent the link to your whatsapp contact
+2. I used django and react to develop a cloud-based solution
+3. I used the databases that come with the python django package to store the field data
+4. I have determined that the employee_id is the one which needs encryption as it is the primary key that differentiates every entity stored in the databases inorder to become unique
+5. Company user with the priviledges to add, update and delete employee data is the superuser (coded in the django backend to be the admin) and the admin can ammend employee data in the database
+6. I unfortunately did not finish coding the search query-class 
+7. Talent verify can update information using single enrty from their own priviledged platform 
+
+8. Areas of potential weaknesses are the API part of the code. The data that will be mapped from the backend and at the same time that will be grabbed by the react frontend is easily accessible to anyoe who wishes to get thier hands on it so there is a high degree of vulnerability. I mitigated this by blocking external access to the port and I used github repository which is not accessible to anyone when it is in private mode, unless I deliberately want people to see my code when i publish it.
+9,10  I have not run any tests
+11. I f i used springboot, i would have used postman which is less vulnerable with the API mappings from the backend. If i used flutter for frontend, it would be benefitiary as it is easier to code with and works better with APIs as compared to react (for me)
+12. i was left with including all the other employee and company information as it was around 18 attributes as instead i took a few to work with so i can cover many aspects in a short time. I only used 4 in repect of time and so i can cover other things. I dont not come around to code the search and delete classes and button actions. I only did add and edit so far.
+13. i have deployed the files to my github account and i have sent the link to your whatsapp contact.  
